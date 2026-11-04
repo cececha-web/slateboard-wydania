@@ -1,0 +1,10 @@
+{
+    "version":  "1.1.0",
+    "versionCode":  3,
+    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.1.0/SlateBoard-1.1.0.apk",
+    "size":  28334100,
+    "notes":  [
+                  "Nowa nazwa: SlateBoard",
+                  "Aktualizacje z GitHuba z paskiem postępu"
+              ]
+}
