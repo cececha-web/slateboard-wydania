@@ -1,10 +1,13 @@
 {
-    "version":  "1.1.0",
-    "versionCode":  3,
-    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.1.0/SlateBoard-1.1.0.apk",
-    "size":  28334100,
+    "version":  "1.2.0",
+    "versionCode":  4,
+    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.2.0/SlateBoard-1.2.0.apk",
+    "size":  28362668,
     "notes":  [
-                  "Nowa nazwa: SlateBoard",
-                  "Aktualizacje z GitHuba z paskiem postępu"
+                  "Listy z kratkami w notatkach",
+                  "Odhaczanie pozycji prosto na karteczce",
+                  "Nowy układ tabletu z pogodą godzinową",
+                  "Dni z wydarzeniami zaznaczone kolorem",
+                  "Przycisk „Gdzie jesteśmy” z mapą z SafeLocMe"
               ]
 }
