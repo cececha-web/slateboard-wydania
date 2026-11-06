@@ -1,11 +1,11 @@
 {
-    "version":  "1.4.0",
-    "versionCode":  6,
-    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.4.0/SlateBoard-1.4.0.apk",
-    "size":  28389216,
+    "version":  "1.5.0",
+    "versionCode":  7,
+    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.5.0/SlateBoard-1.5.0.apk",
+    "size":  28523396,
     "notes":  [
-                  "Pogoda na 4 dni na tablecie",
-                  "Godziny w pasku pogody jak 15⁰⁰",
-                  "Mapa rodziny bez Twojego znacznika (do wyboru)"
+                  "Kafelek „Domownicy” na tablecie – kto jest w domu",
+                  "„W domu” po domowej Wi-Fi, „koło domu” po GPS",
+                  "Logowanie kontem Google do SafeMeLoc w Ustawieniach"
               ]
 }
