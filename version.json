@@ -1,13 +1,11 @@
 {
-    "version":  "1.3.0",
-    "versionCode":  5,
-    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.3.0/SlateBoard-1.3.0.apk",
-    "size":  28388032,
+    "version":  "1.4.0",
+    "versionCode":  6,
+    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.4.0/SlateBoard-1.4.0.apk",
+    "size":  28389216,
     "notes":  [
-                  "Imieniny pod zegarem na tablecie",
-                  "Pogoda na 3 dni obok siebie na tablecie",
-                  "Nagłówek z nazwą aplikacji w trybie Notatki",
-                  "Agenda na tablecie bez nagłówka",
-                  "Nowa nazwa mapy: SafeMeLoc"
+                  "Pogoda na 4 dni na tablecie",
+                  "Godziny w pasku pogody jak 15⁰⁰",
+                  "Mapa rodziny bez Twojego znacznika (do wyboru)"
               ]
 }
