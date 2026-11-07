@@ -1,11 +1,11 @@
 {
-    "version":  "1.5.0",
-    "versionCode":  7,
-    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.5.0/SlateBoard-1.5.0.apk",
-    "size":  28523396,
+    "version":  "1.6.0",
+    "versionCode":  8,
+    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.6.0/SlateBoard-1.6.0.apk",
+    "size":  28527324,
     "notes":  [
-                  "Kafelek „Domownicy” na tablecie – kto jest w domu",
-                  "„W domu” po domowej Wi-Fi, „koło domu” po GPS",
-                  "Logowanie kontem Google do SafeMeLoc w Ustawieniach"
+                  "Tablet ogłasza się w domowej Wi-Fi – SafeMeLoc rozpoznaje „w domu”",
+                  "Stan ogłaszania w Ustawieniach → Mapa rodziny",
+                  "Kafelek pomija „w domu” starsze niż 30 min"
               ]
 }
