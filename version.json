@@ -1,11 +1,10 @@
 {
-    "version":  "1.8.0",
-    "versionCode":  10,
-    "apk":  "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.8.0/SlateBoard-1.8.0.apk",
-    "size":  28561236,
-    "notes":  [
-                  "„Dziś w skrócie” pod temperaturą na tablecie",
-                  "Parasol i co założyć – jak w Simply Weather",
-                  "Pod temperaturą: temperatura odczuwalna"
-              ]
+  "version": "1.9.0",
+  "versionCode": 11,
+  "apk": "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.9.0/SlateBoard-1.9.0.apk",
+  "size": 29066832,
+  "notes": [
+    "Kafelek Domownicy: „nie udostępnia”, gdy ktoś wyłączył udostępnianie w SafeMeLoc",
+    "Czas liczony od wyłączenia udostępniania"
+  ]
 }
