@@ -1,10 +1,11 @@
 {
-  "version": "1.9.0",
-  "versionCode": 11,
-  "apk": "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.9.0/SlateBoard-1.9.0.apk",
-  "size": 29066832,
+  "version": "1.10.0",
+  "versionCode": 12,
+  "apk": "https://github.com/cececha-web/slateboard-wydania/releases/download/v1.10.0/SlateBoard-1.10.0.apk",
+  "size": 29261568,
   "notes": [
-    "Kafelek Domownicy: „nie udostępnia”, gdy ktoś wyłączył udostępnianie w SafeMeLoc",
-    "Czas liczony od wyłączenia udostępniania"
+    "Lista na tablecie: odhaczone pozycje znikają z karteczki, widać je po dotknięciu notatki",
+    "Na tablecie obok koła zębatego: bateria i procent, błyskawica przy ładowaniu",
+    "Nowa ikona: tablica na granatowym tle, w stylu Simply Weather, Simply Text i Autoboard"
   ]
 }
